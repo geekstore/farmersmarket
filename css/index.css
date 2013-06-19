@@ -1,0 +1,99 @@
+.ui-btn-inner
+{
+	border-top: 1px solid rgb(0, 0, 0);
+	border-color: rgba(0, 0, 0, 1);
+}
+
+.ui-btn-up-c
+{
+	font-weight: bold;
+	color: #222;
+	text-shadow: 0 1px 0 rgb(0, 0, 0);
+}
+
+.ui-btn-up-c
+{
+	border: 1px solid #000;
+}
+.ui-navbar li .ui-btn
+{
+	display: block;
+	text-align: center;
+	margin: 0 -1px 0 0;
+	border-right-width: 3;
+}
+.ui-btn-hover-c
+{
+	font-family: Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	border-color: red;
+}
+.ui-fixed-hidden
+{
+	position: fixed;
+}
+
+.nav-glyphish-example1 .ui-btn .ui-btn-inner { padding-top: 50px !important; }
+.nav-glyphish-example1 .ui-btn .ui-icon { width: 40px!important; height: 40px!important; margin-left: -20px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+#homeicon .ui-icon { background: url(../../images/home_b.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#storesicon .ui-icon { background: url(../images/stores_b.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#diningicon .ui-icon { background: url(../images/food.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#offersicon .ui-icon { background: url(../images/offers.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#eventsicon .ui-icon { background: url(../images/category1.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#infoicon .ui-icon { background: url(../images/info.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#moviesicon .ui-icon { background: url(../images/movies.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#parkingicon .ui-icon { background: url(../images/parking_w.png) 50% 50% no-repeat; background-size: 40px 40px; }
+#socialicon .ui-icon { background: url(../images/social.png) 50% 50% no-repeat; background-size: 40px 40px; }
+
+.nav-glyphish-example .ui-btn .ui-btn-inner { padding-top: 40px !important; }
+.nav-glyphish-example .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+#Dashboard .ui-icon { background: url(../images/farmer/markets_ico.png) 50% 50% no-repeat; background-size: 24px 22px; }
+#SendButton .ui-icon { background: url(../images/cart_w.png) 50% 50% no-repeat; background-size: 30px 22px; }
+#RequestButton .ui-icon { background: url(../images/farmer/producers_ico.png) 50% 50% no-repeat; background-size: 24px 22px; }
+
+#home, #allcatpage, #allshoppage, #cart, #pmt_success, #pmt_failed
+{
+	background-color: black; padding-bottom: 120px; min-height: 445px; opacity: 0.8; background-image: url(../images/farmer/farmersmarketmixed.jpg); background-size: 100% 100%; background-repeat: no-repeat;
+}
+
+.cancelledItem
+{
+	text-decoration: line-through;
+}
+
+.round
+{
+	padding: 7px; 
+	margin-left: 4px;
+	color: rgb(3, 0, 0);
+	text-shadow: none;
+	background-image: url(../images/shopping_bag.png);
+	background-size: 100% 83%;
+	background-repeat: no-repeat;
+}
+	
+#allshopHeader, #allcatHeader, #homeHeader
+{
+	;background-color: rgb(254, 48, 12); 
+	background-image: url(../images/farmer/leather.png);
+	background-size: 100% 100%;
+}
+.ui-footer .ui-navbar li .ui-btn
+{
+	border-top-width: 0;
+	border-bottom-width: 0;
+	border: none;
+}
+
+.ui-btn-up-a
+{
+	;background-image: linear-gradient( rgb(131, 56, 24), rgb(203, 110, 61) );
+	background: rgb(203, 110, 61);
+}
+
+.ui-btn-up-d
+{
+	background: rgb(194, 151, 129);
+	color: rgb(0, 0, 0);
+	text-shadow: none;
+}

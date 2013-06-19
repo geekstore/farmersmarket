@@ -1,0 +1,61 @@
+.ui-btn-pay .ui-btn .ui-btn-inner { padding-top: 40px !important; }
+.ui-btn-pay .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+#btnPaypalIcon .ui-icon { background: url(../../images/pphere.png) 50% 60% no-repeat; background-size: 24px 22px; }
+#btns2pIcon .ui-icon { background: url(../../images/s2p.png) 50% 50% no-repeat; background-size: 24px 22px; }
+#btnVoiceIcon .ui-icon { background: url(../../images/v2p.png) 50% 50% no-repeat; background-size: 24px 22px; }
+#btnCardIcon  .ui-icon { background: url(../../images/card.png) 50% 50% no-repeat; background-size: 40px 22px; }
+#btnCashIcon .ui-icon { background: url(../../images/cash.png) 50% 50% no-repeat; background-size: 40px 22px; }
+.ui-btn-pay .ui-btn .ui-icon {background: url(../../images/pphere.png) 50% 50% no-repeat;background-size: 24px 24px;}
+					
+.ui-btn-corner-all {
+	-moz-border-radius: 				0.4em/*{global-radii-buttons}*/;
+	-webkit-border-radius: 				0.4em/*{global-radii-buttons}*/;
+	border-radius: 						0.4em/*{global-radii-buttons}*/;
+}			
+					
+#paymentsHome,#Balancelist1, .ui-btn-pay , #cardpay, #voicepay, #share2pay, .pagecontent,#pmt_summary,#VerifyVPCode{
+background-image:url('../../images/paygrad.png'); 
+background-size:100% 100%; 
+background-repeat:no-repeat; 
+}
+#HomeHeader{
+padding-top:1%;
+padding-bottom:2%;
+}
+.pageheaders{
+background-image:url('../../images/headgrad.png'); background-size:100% 100%; background-repeat:no-repeat; 
+}
+#tip{
+
+float: right;
+}
+
+.tip-select .ui-select { text-align:center; }
+
+
+#libalance1{
+background-color:#cccccc;font-size:1.5em;text-align:center; display: none
+}
+
+.ui-icon-vicon1, .ui-icon-s2p1, .ui-icon-cicon1, .ui-icon-casicon1{
+width:45%;
+}
+.ui-icon-vicon1, .ui-icon-cicon1{
+float: left;
+margin-left: 0;
+
+}
+.ui-icon-s2p1, .ui-icon-casicon1{
+float: right;
+margin-right: 0;
+}
+ .ui-btn-success .ui-btn .ui-btn-inner { padding-top: 40px !important; }
+.ui-btn-success .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+#btnReceiptToMobile .ui-icon { background: url(../../images/printer.png) 50% 60% no-repeat; background-size: 24px 22px; }
+#btnReceiptToEmail .ui-icon { background: url(../../images/mail-icon.png) 50% 60% no-repeat; background-size: 24px 22px; }
+#btnNoReceipt .ui-icon { background: url(../../images/cancel1.png) 50% 60% no-repeat; background-size: 24px 22px; }
+
+.toast {display: none; position: absolute; z-index: 1; width: 100%; text-align: center; bottom: 10%;}
+
+.toast .message {display: inline-block; color: #fff; padding: 5px; border-radius: 5px; box-shadow: 2px 2px 2px #666; -webkit-box-shadow: 2px 2px 2px #666; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: .8em; background: #282324; background-image: -webkit-gradient(linear,left top,left bottom, color-stop(0, #554434), color-stop(1, #282324));}
+
