@@ -34,10 +34,10 @@ Set up MySQL DB
 <table>
 <tr><td><b>Sl.No</td><td><b>Table Name</td><td><b>Description</td>
 <tr><td>1</td><td>Categories</td><td>Contains Category's name and Ids</td>
-<tr><td>1</td><td>Items</td><td>Contains Item's name, Id, price, categoryId, shopId</td>
-<tr><td>1</td><td>Orders</td><td>Contains Order details</td>
-<tr><td>1</td><td>Payments</td><td>Contains Payment staus by order Id</td>
-<tr><td>1</td><td>Shops</td><td>Contains Shop's name, Id, api credentials, location</td>
+<tr><td>2</td><td>Items</td><td>Contains Item's name, Id, price, categoryId, shopId</td>
+<tr><td>3</td><td>Orders</td><td>Contains Order details</td>
+<tr><td>4</td><td>Payments</td><td>Contains Payment staus by order Id</td>
+<tr><td>5</td><td>Shops</td><td>Contains Shop's name, Id, api credentials, location</td>
 </table>
 
 
